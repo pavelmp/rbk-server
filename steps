@@ -1,0 +1,21 @@
+create github repo
+clone repo
+npm init
+install express
+create basic server
+use postman
+add nodemon
+improve API
+add .gitignore
+add database object
+add post API
+send data in plain text, look at req
+google "express request body"
+add express.json middleware
+change request type to JSON
+add middleware that prints time of every API request
+asyncronous function - setTimeout example, startWork/finishWork example
+bcrypt (users object in database) (https://www.abeautifulsite.net/hashing-passwords-with-nodejs-and-bcrypt)
+http codes (https://www.restapitutorial.com/httpstatuscodes.html)
+install jwt (https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
+add token verification and save tokens per user in the database
