@@ -1,0 +1,23 @@
+{
+  "name": "rbkserver",
+  "version": "1.0.0",
+  "description": "Node Express Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelmp/rbk-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelmp/rbk-server/issues"
+  },
+  "homepage": "https://github.com/pavelmp/rbk-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0"
+  }
+}
